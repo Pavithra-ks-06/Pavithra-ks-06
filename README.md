@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hey coders 👋
+    I m Pavithra 
 
 
 ## About
 
-Myself Pavithra,currently pursuing B.Tech in computer science and engineering from Bharati Vidhyapeeth (deemed to be university) college of engineering 2020-2024.
+I am Pavithra, currently pursuing B.Tech in computer science and engineering. 
+To be honest, Coding didn't fascinate me much but hoping to fall for it with time and experience.
+Being inquisitive and a keen learner, always looking forward to explore various technologies . 
+I believe exploration is curiosity put into action.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Data sructures and algorithms
 - 📫 How to reach me: Mail Id - pavithra.ks.6.12.2002@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Love to sing and play badminton in my free time !
 
 ## Statistics
 
