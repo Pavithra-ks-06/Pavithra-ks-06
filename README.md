@@ -1,18 +1,16 @@
-### Hey coders 👋
-### I m Pavithra 
+### Hey !!
 
 ## About
 
-I am Pavithra, currently pursuing B.Tech in computer science and engineering. 
+This is Pavithra, currently pursuing B.Tech in computer science and engineering. 
 To be honest, Coding didn't fascinate me much but hoping to fall for it with time and experience.
-Being inquisitive and a keen learner, always looking forward to explore various technologies . 
-I believe exploration is curiosity put into action.
+Bein a keen learner , I always look for opportunities to enhance my skills and grow profesionally in my career.
 
 
-- 🌱 I’m currently learning Data sructures and algorithms
-- 📫 How to reach me: Mail Id - pavithra.ks.6.12.2002@gmail.com
+- 🌱 I’m currently exploring Machine learning domain
+- 📫 How to reach me: Mail Id - ks.pavithra.06@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love to sing and play badminton in my free time !
+- ⚡ Fun fact: Love to sing,read books and play badminton in my leisure time
 
 ## Statistics
 
