@@ -1,7 +1,5 @@
 ### Hey !!
 
-## About
-
 This is Pavithra, currently pursuing B.Tech in computer science and engineering. 
 To be honest, Coding didn't fascinate me much but hoping to fall for it with time and experience.
 Bein a keen learner , I always look for opportunities to enhance my skills and grow profesionally in my career.
