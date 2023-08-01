@@ -18,8 +18,5 @@ Bein a keen learner , I always look for opportunities to enhance my skills and g
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavithra-ks-06&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pavithra-ks-06)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-ks-06)  
 
-![Profile views](https://gpvc.arturio.dev/Pavithra-ks-06)
