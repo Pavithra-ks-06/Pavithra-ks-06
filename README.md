@@ -1,14 +1,15 @@
 ### Hey !!
 
-This is Pavithra, currently pursuing B.Tech in computer science and engineering. 
-To be honest, Coding didn't fascinate me much but hoping to fall for it with time and experience.
-Bein a keen learner , I always look for opportunities to enhance my skills and grow profesionally in my career.
+This is Pavithra, Currently pursuing Btech ( final year )in Computer science engineering from Bharati vidhyapeeth deemed to be university, college of engineering and technology (2020-2024) with a great academic record.
+Being an inquisitive and a keen learner, always looking forward to explore various opportunities and fields.
+My areas of interest include Machine learning, front-end development and graphic designing.
+I believe exploration is curiosity put into action, thus having a positive attitude to solve all the challenges that come in my way and seeking to grow professionally.
 
 
 - 🌱 I’m currently exploring Machine learning domain
 - 📫 How to reach me: Mail Id - ks.pavithra.06@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love to sing,read books and play badminton in my leisure time
+- ⚡ Fun fact: Love to sing and play badminton in my leisure time
 
 ## Statistics
 
